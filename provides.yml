@@ -1,0 +1,21 @@
+client_tabs:
+    mosyle_business:
+        view: mosyle_business_tab
+        i18n: mosyle_business.title
+listings:
+    mosyle_business:
+        view: mosyle_business_listing
+        i18n: mosyle_business.listing.title
+reports:
+    mosyle_business:
+        view: mosyle_business_report
+        i18n: mosyle_business.report.title
+widgets:
+    mosyle_business_version:
+        view: 'mosyle_business_version_widget'
+    mosyle_business_location:
+        view: 'mosyle_business_location_widget'
+    mosyle_business_status:
+        view: 'mosyle_business_status_widget'
+    mosyle_business_name:
+        view: 'mosyle_business_name_widget'
