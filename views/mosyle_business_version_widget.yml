@@ -1,0 +1,8 @@
+type: scrollbox
+widget_id: mosyle_business-version-scrollbox-widget
+api_url: /module/mosyle_business/get_list/version
+i18n_title: mosyle_business.widget.version_title
+icon: fa-tachometer
+listing_link: /show/listing/mosyle_business/mosyle_business
+search_key: label
+badge: count

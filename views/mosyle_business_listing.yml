@@ -1,0 +1,19 @@
+i18n_title: mosyle_business.listing.title
+table:
+    -   column: machine.computer_name
+        i18n_header: listing.computername
+        formatter: clientDetail
+        tab_link: mosyle_business
+    -   column: reportdata.serial_number
+        i18n_header: serial
+    -   column: mosyle_business.version
+        i18n_header: mosyle_business.column.version
+    -   column: mosyle_business.org_name
+        i18n_header: mosyle_business.column.org_name
+    -   column: mosyle_business.attempt_date
+        i18n_header: mosyle_business.column.attempt_date
+    -   column: mosyle_business.success_date
+        i18n_header: mosyle_business.column.success_date
+    -   column: mosyle_business.location_enabled
+        i18n_header: mosyle_business.column.location_enabled
+        formatter: binaryYesNo

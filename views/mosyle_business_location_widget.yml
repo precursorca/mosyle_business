@@ -1,0 +1,13 @@
+type: button
+widget_id: mosyle_business-location-button-widget
+api_url: /module/mosyle_business/get_list/location_enabled
+i18n_title: mosyle_business.widget.location_enabled_title
+icon: fa-globe
+listing_link: /show/listing/mosyle_business/mosyle_business
+buttons:
+  - label: "1"
+    i18n_label: on
+    class: btn-success
+  - label: "0"
+    i18n_label: off
+    class: btn-danger

@@ -1,0 +1,7 @@
+type: bargraph
+widget_id: mosyle_business-name-bargraph-widget
+api_url: /module/mosyle_business/get_list/org_name
+i18n_title: mosyle_business.widget.org_name_title
+icon: fa-home
+listing_link: /show/listing/mosyle_business/mosyle_business
+margin: {left: 150}

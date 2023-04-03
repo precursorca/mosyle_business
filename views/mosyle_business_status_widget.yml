@@ -1,0 +1,17 @@
+type: button
+widget_id: mosyle_business-status-button-widget
+api_url: /module/mosyle_business/get_stats
+i18n_title: mosyle_business.widget.status_title
+icon: fa-shield
+listing_link: /show/listing/mosyle_business/mosyle_business
+search_key: label
+badge: count
+buttons:
+  - label: "today"
+    i18n_label: mosyle_business.today
+    class: btn-success 
+    hide_when_zero: false
+  - label: "tardy"
+    i18n_label: mosyle_business.tardy
+    class: btn-warning
+    hide_when_zero: false
