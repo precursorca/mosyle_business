@@ -1,0 +1,24 @@
+{
+    "column": {
+        "version": "Version",
+        "org_name": "Org Name",
+        "attempt_date": "Attempt Date",
+        "success_date": "Success Date",
+        "location_enabled": "Location Enabled"
+    },
+    "listing": {
+        "title": "Mosyle Business"
+    },
+    "report": {
+        "title": "Mosyle Business"
+    },
+    "title": "Mosyle Business",
+    "today": "Synced",
+    "tardy": "Stale",
+    "widget": {
+        "version_title": "Mosyle Version",
+        "org_name_title": "Mosyle Org Name",
+		"status_title": "Mosyle Status",
+        "location_enabled_title": "Mosyle Location Enabled"
+    }
+}
