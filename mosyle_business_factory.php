@@ -7,7 +7,7 @@
 $factory->define(Mosyle_business_model::class, function (Faker\Generator $faker) {
 
     return [
-        'version' => $faker->randomNumber($nbDigits = 4, $strict = false),
+        'version' => $faker->word(),
         'org_name' => $faker->word(),
         'attempt_date' => $faker->word(),
         'success_date' => $faker->word(),
