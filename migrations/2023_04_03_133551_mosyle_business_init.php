@@ -11,7 +11,7 @@ class MosyleBusinessInit extends Migration
         $capsule::schema()->create('mosyle_business', function (Blueprint $table) {
             $table->increments('id');
             $table->string('serial_number');
-            $table->integer('version')->nullable();
+            $table->string('version')->nullable();
             $table->string('org_name')->nullable();
             $table->string('attempt_date')->nullable();
             $table->string('success_date')->nullable();
