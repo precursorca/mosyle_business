@@ -1,8 +1,8 @@
 # Mosyle Business Module
 A munkireport module for Mosyle Business
 
-> v. 1.0.0 
-> April 3, 2023 
+> v. 1.0.1 
+> April 6, 2023 
 > Alex Narvey / Precursor.ca  
 
 ![Msyle Business Module Report](Mosyle_Module_ScreenShot.png)
@@ -33,6 +33,7 @@ Stale refers to the last success being more than 24 hours old
 
 
 ## Updates
+* April 6, 2023 Version 1.0.1 changed version from INTEGER to STRING (Thank you Gerald McDonald)
 * April 3, 2023 Version 1.0 
 
 ## Contributors
